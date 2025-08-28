@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello, i am Davi! 👋
+
+- I'm looking for job oportunities, and diving into new tecnologies
+- Currently on college studying Information Systems
+
+## Contact info:
+**Linkedin**
+[![Linkedin](https://img.shields.io/badge/-Davi_Fontanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-fontanini-9a06b5290)](https://www.linkedin.com/in/davi-fontanini-9a06b5290) <br/>
+**Gmail**
+[![Gmail Badge](https://img.shields.io/badge/-fontanini.davi@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fontanini.davi@gmail.com)](mailto:fontanini.davi@gmail.com)
+
 
 <!--
 **dxvzera/dxvzera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
