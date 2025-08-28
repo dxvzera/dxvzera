@@ -5,12 +5,6 @@
 - 💭 Personally starting to like IT infraestructure
 - ⚡ Planning on studying at SENAI and an english course to achieve fluency
 
-## Contact info:
-**Linkedin**
-[![Linkedin](https://img.shields.io/badge/-Davi_Fontanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-fontanini-9a06b5290)](https://www.linkedin.com/in/davi-fontanini-9a06b5290) <br/>
-**Gmail**
-[![Gmail Badge](https://img.shields.io/badge/-fontanini.davi@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fontanini.davi@gmail.com)](mailto:fontanini.davi@gmail.com)
-
 ## Known tecnologies:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,4 +13,10 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Contact info:
+**Linkedin**
+[![Linkedin](https://img.shields.io/badge/-Davi_Fontanini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-fontanini-9a06b5290)](https://www.linkedin.com/in/davi-fontanini-9a06b5290) <br/>
+**Gmail**
+[![Gmail Badge](https://img.shields.io/badge/-fontanini.davi@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fontanini.davi@gmail.com)](mailto:fontanini.davi@gmail.com)
 
