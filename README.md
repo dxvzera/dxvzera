@@ -1,9 +1,9 @@
-## Hello, i am Davi! 👋
+## Hello, I am Davi! 👋
 
-- 📫 I'm looking for job oportunities, and diving into new tecnologies
-- 📚 Currently on college studying Information Systems (2nd semester)
-- 💭 Personaly starting to like IT infraestruture
-- ⚡ Planning on coursing SENAI and a english course to be actually fluent
+- 📫 I'm looking for new job opportunities, and diving into new technologies
+- 📚 Currently in college studying Information Systems (2nd semester)
+- 💭 Personally starting to like IT infraestructure
+- ⚡ Planning on studying at SENAI and an english course to achieve fluency
 
 ## Contact info:
 **Linkedin**
