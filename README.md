@@ -2,8 +2,8 @@
 
 - 📫 I'm looking for new job opportunities, and diving into new technologies
 - 📚 Currently in college studying Information Systems (2nd semester)
-- 💭 Personally starting to like IT infraestructure
-- ⚡ Planning on studying at SENAI and an english course to achieve fluency
+- ⚡ Studying at SENAI - AWS Cloud Practitioner
+- 💭 I personally like Hardware/Building PC's
 
 ## Known technologies:
 
