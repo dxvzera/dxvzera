@@ -1,8 +1,8 @@
-## Hello, I am Davi! 👋
+## Hey, I am Davi! 👋
 
 - 📫 I'm looking for new job opportunities, and diving into new technologies
 - 📚 Currently in college studying Information Systems (2nd semester)
-- ⚡ Studying at SENAI - AWS Cloud Practitioner
+- ⚡ Studying to get a AWS Cloud Practitioner certificate
 - 💭 I personally like Hardware/Building PC's
 
 ## Known technologies:
