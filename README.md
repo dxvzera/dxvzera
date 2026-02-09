@@ -2,7 +2,7 @@
 
 - 📫 I'm looking for new job opportunities, and diving into new technologies
 - 📚 Currently in college studying Information Systems (2nd semester)
-- ⚡ Studying to get a AWS Cloud Practitioner certificate
+- ⚡ I'm studying some courses to improve myself
 - 💭 I personally love Hardware/Building PC's
 
 ## Contact info:
