@@ -1,7 +1,7 @@
 ## Hey, I am Davi! 👋
 
 - 📫 I'm looking for new job opportunities, and diving into new technologies
-- 📚 Currently in college studying Information Systems (2nd semester)
+- 📚 Currently in college studying Information Systems (3rd semester)
 - ⚡ I'm studying some courses to improve myself
 - 💭 I personally love Hardware/Building PC's
 
